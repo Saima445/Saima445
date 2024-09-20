@@ -41,6 +41,6 @@ Responsiivinen verkkosivuprojekti, joka on suunniteltu HTML5:n ja CSS3:n avulla.
 - [LinkedIn](https://www.linkedin.com/in/saima-salonen) — Minuun saa yhteyden minkä tahansa asian tiimoilta täältä.
 - [GitHub](https://github.com/Saima445) — Katso lisää projektejani ja kontribuutioitani.
 
-### ⚡ Haku päällä!
+## ⚡ Haku päällä!
 
-Etsin tällä hetkellä harjoittelupaikkaa viimeistelläkseni koulutukseni. Jos yrityksesi etsii innokasta harjoittelijaa, joka rakastaa koodaamista ja tekee töitä kovalla motivaatiolla, ota rohkeasti yhteyttä LinkedInin kautta! 💻✨
+Etsin tällä hetkellä harjoittelupaikkaa viimeistelläkseni koulutukseni. Jos yrityksesi etsii innokasta harjoittelijaa, joka rakastaa koodaamista ja tekee töitä kovalla motivaatiolla, ota rohkeasti yhteyttä LinkedInin kautta!
