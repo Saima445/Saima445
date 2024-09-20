@@ -1,6 +1,6 @@
 # Tervehdys!
 
-Olen **Saima Salonen**, **Full Stack -ohjelmistokehityksen opiskelija** Helsinki Business Collegessa. Urani koodarina on vielä alkutaipaleella, mutta into oppia ja halu tehdä töitä vievät minua vauhdilla eteenpäin. Keskityn opinnoissani erityisesti web-teknologioihin, kuten **Reactiin** ja **Javaan** ja hommat sujuvat yhtä lailla suomeksi kuin englanniksikin. Jotta saan kehitettyä taitotasoani eteenpäin, tartun mielelläni haastaviin projekteihin, joista voin oppia mahdollisimman paljon. Jokainen projekti saa minut askeleen lähemmäs ammattilaisuutta, ja olen innokas näkemään, mihin tieni vie.
+Olen **Saima**, **Full Stack -ohjelmistokehityksen opiskelija** Helsinki Business Collegessa. Urani koodarina on vielä alkutaipaleella, mutta into oppia ja halu tehdä töitä vievät minua vauhdilla eteenpäin. Keskityn opinnoissani erityisesti web-teknologioihin, kuten **Reactiin** ja **Javaan** ja hommat sujuvat yhtä lailla suomeksi kuin englanniksikin. Jotta saan kehitettyä taitotasoani eteenpäin, tartun mielelläni haastaviin projekteihin, joista voin oppia mahdollisimman paljon. Jokainen projekti saa minut askeleen lähemmäs ammattilaisuutta, ja olen innokas näkemään, mihin tieni vie.
 
 ## 🔧 Taitoni
 
