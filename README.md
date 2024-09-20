@@ -1,6 +1,8 @@
 # Tervehdys!
 
-Olen **Saima**, **Full Stack -ohjelmistokehityksen opiskelija** Helsinki Business Collegessa. Urani koodarina on vielä alkutaipaleella, mutta into oppia ja halu tehdä töitä vievät minua vauhdilla eteenpäin. Keskityn opinnoissani erityisesti web-teknologioihin, kuten **Reactiin** ja **Javaan** ja hommat sujuvat yhtä lailla suomeksi kuin englanniksikin. Jotta saan kehitettyä taitotasoani eteenpäin, tartun mielelläni haastaviin projekteihin, joista voin oppia mahdollisimman paljon. Jokainen projekti saa minut askeleen lähemmäs ammattilaisuutta, ja olen innokas näkemään, mihin tieni vie.
+Olen **Saima**, **Full Stack -ohjelmistokehityksen opiskelija** Helsinki Business Collegessa. Ennen opintojani minulla ei ollut lainkaan kokemusta koodauksesta, mutta aloitettuani opinnot syksyllä 2023, olen vuodessa oppinut valtavasti ja saanut käytännön kokemusta web-ohjelmoinnista. Urani koodarina on vielä alkutaipaleella, mutta into oppia ja kova halu tehdä töitä vievät minua nopeasti eteenpäin. Keskityn erityisesti web-teknologioihin, kuten **Reactiin** ja **Javaan**, ja hommat sujuvat yhtä lailla suomeksi kuin englanniksikin. 
+
+Jotta saan kehitettyä taitojani edelleen, tartun mielelläni haastaviin projekteihin, joista voin oppia mahdollisimman paljon uutta. Jokainen projekti vie minut askeleen lähemmäs ammattilaisuutta, ja olen innolla odottamassa, mihin kaikki tämä kova työ vielä vie.
 
 ## 🔧 Taitoni
 
