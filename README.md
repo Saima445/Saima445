@@ -53,7 +53,7 @@ Responsiivinen verkkosivuprojekti, joka on suunniteltu HTML5:n ja CSS3:n avulla.
 
 ## 🚀 Mistä minut löytää
 
-- [LinkedIn](https://www.linkedin.com/in/saima-salonen) — Minuun saa yhteyden tätä kautta minkä tahansa asian tiimoilta.
+- [LinkedIn](https://www.linkedin.com/in/saimasalonen/) — Minuun saa yhteyden tätä kautta minkä tahansa asian tiimoilta.
 - [GitHub](https://github.com/Saima445) — Kurkkaa lisää projektejani ja kontribuutioitani.
 
 ## ⚡ Haku päällä!
