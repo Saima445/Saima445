@@ -21,7 +21,7 @@ Olen saanut rutkasti käytännön kokemusta erilaisten kouluprojektien kautta, j
 
 Tässä muutama esimerkki projekteista, joissa olen päässyt soveltamaan oppimiani taitoja:
 
-### -[Kahvikauppa](https://github.com/Saima445/kahvikauppa)
+-[Kahvikauppa](https://github.com/Saima445/kahvikauppa)
 Verkkosovellus, joka hallitsee kahvikaupan tuotteita ja tilauksia. Tämä **Spring Boot** -projekti kattaa tuotteenhallinnan, käyttäjähallinnan ja tarjoaa täyden hallintapaneelin.
 
 ### -[SOC Dashboard](https://github.com/IsratJahan13/official_soc_dashboard)
