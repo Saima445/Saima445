@@ -24,17 +24,17 @@ Tässä muutama esimerkki projekteista, joissa olen päässyt soveltamaan oppimi
 #### ShareVault
 Tämä projekti on meneillään oleva kurssityömme, jota toteutamme neljän hengen ryhmässä. Sovellus on suunniteltu osakasrekisterin hallintaan, ja sen avulla yhtiöt voivat helposti ja tehokkaasti hallinnoida osakkeenomistajien tietoja ja osakekauppoja. ShareVault tarjoaa osakasluettelon hallinnan, osakkeiden myyntien ja ostojen seurannan sekä visuaaliset kaaviot osakkeiden arvonkehityksestä. Käyttäjät voivat tarkastella omistusosuuksia, järjestellä tietoja taulukossa ja saada reaaliaikaisia tietoja osakkeenomistajista. Sovellus on rakennettu Reactilla ja Highcharts-kirjastolla visuaalisten esitysten luomiseksi. Backend on toteutettu Spring Boot -teknologialla. Olen itse vastuussa front end toteutuksesta toisen luokkakaverini kanssa, tyyli ja ulkomuoto ovat minun suunnittelemani.
 
-![ShareVault dashboard](sharevaul-chart_page.png)
+![ShareVault dashboard](images/sharevaul-chart_page.png)
 
-![ShareVault osakasluettelo](sharevaul-ol_page.png)
+![ShareVault osakasluettelo](images/sharevaul-ol_page.png)
 
-![ShareVault osakenumerot](sharevault-on_page.png)
+![ShareVault osakenumerot](images/sharevault-on_page.png)
 
-![ShareVault merkintähistoria](sharevault-mh_page.png)
+![ShareVault merkintähistoria](images/sharevault-mh_page.png)
 
-![ShareVault osakkaiden tiedot](sharevault-ot_page.png)
+![ShareVault osakkaiden tiedot](images/sharevault-ot_page.png)
 
-![ShareVault lisää uusi](sharevault-lu_page.png)
+![ShareVault lisää uusi](images/sharevault-lu_page.png)
 
 #### [Kahvikauppa](https://github.com/Saima445/kahvikauppa)
 Verkkosovellus, joka hallitsee kahvikaupan tuotteita ja tilauksia. Tämä **Spring Boot** -projekti kattaa tuotteenhallinnan, käyttäjähallinnan ja tarjoaa täyden hallintapaneelin. Kaikki toiminnot ja tyylit ovat itse tekemiäni.
