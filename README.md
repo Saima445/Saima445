@@ -42,7 +42,7 @@ Verkkosovellus, joka hallitsee kahvikaupan tuotteita ja tilauksia. Tämä **Spri
 #### [SOC Dashboard](https://github.com/IsratJahan13/official_soc_dashboard)
 Tietoturvaoperaatioiden hallintaan tarkoitettu SOC Dashboard -sovellus tarjoaa reaaliaikaisen näkymän tietoturvajärjestelmien tapahtumiin. Sovellus on rakennettu **Reactin** ja **Viten** avulla ja siinä on tuettu **dark mode** sekä monimutkaisten tietoturvalokien hallinta. Olin vastuussa käyttöliittymän suunnittelusta, CSS-tyylittelystä, responsiivisesta suunnittelusta sekä työaseman verkkoliikenteen ja eri teemojen toteutuksesta. Moni toiminnallisuus komponenteissa oli myös omaa käsialaani. 
 
-#### [Portfolio](https://saima445.github.io/portfolio-saima/)
+#### [Portfolio](https://github.com/Saima445/portfolio-saima)
 Portfoliosivu, joka piti luoda mahdollisimman samanlaiseksi kuin opettajan esimerkkisivu. Rakennettu käyttäen **HTML5** ja **CSS3**.
 
 #### [Countries Information App](https://saima445.github.io/05-react-maiden-tiedot/)
