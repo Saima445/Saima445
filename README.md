@@ -1,8 +1,8 @@
 # Tervehdys!
 
-Olen **Saima**, **Full Stack -ohjelmistokehityksen opiskelija** Helsinki Business Collegessa. Ennen opintojani minulla ei ollut lainkaan kokemusta koodauksesta, mutta aloitettuani opinnot syksyllä 2023, olen vuodessa oppinut valtavasti ja saanut käytännön kokemusta web-ohjelmoinnista. Urani koodarina on vielä alkutaipaleella, mutta into oppia ja kova halu tehdä töitä vievät minua nopeasti eteenpäin. Keskityn erityisesti web-teknologioihin, kuten **Reactiin** ja **Javaan**, ja hommat sujuvat yhtä lailla suomeksi kuin englanniksikin. 
+Olen **Saima**, **Full Stack -ohjelmistokehityksen opiskelija** Helsinki Business Collegessa. Ennen opintojani minulla ei ollut juurikaan kokemusta koodauksesta, mutta aloitettuani opinnot syksyllä 2023, olen vuodessa oppinut valtavasti ja saanut käytännön kokemusta web-ohjelmoinnista. Urani koodarina on vielä alkutaipaleella, mutta into oppia, ja kova halu tehdä töitä vievät minua nopeasti eteenpäin. Keskityn opinnoissani erityisesti web-teknologioihin, kuten **Reactiin** ja **Javaan**, ja hommat sujuvat yhtä lailla suomeksi kuin englanniksikin. 
 
-Jotta saan kehitettyä taitojani edelleen, tartun mielelläni haastaviin projekteihin, joista voin oppia mahdollisimman paljon uutta. Jokainen projekti vie minut askeleen lähemmäs ammattilaisuutta, ja olen innolla odottamassa, mihin kaikki tämä kova työ vielä vie.
+Jotta saan kehitettyä taitojani edelleen, tartun mielelläni haastaviin projekteihin, joista voin oppia mahdollisimman paljon uutta. Jokainen projekti vie minut askeleen lähemmäs ammattilaisuutta, ja odotan innolla, mihin kaikki tämä kova työ vie.
 
 ## 🔧 Taitoni
 
@@ -19,7 +19,7 @@ Olen saanut rutkasti käytännön kokemusta erilaisten kouluprojektien kautta, j
 
 ## 📚 Projektit
 
-Tässä muutama esimerkki projekteista, joissa olen päässyt soveltamaan oppimiani taitoja:
+Tosiaan noin vuoden koodaus opintojen jälkeen, tässä muutama esimerkki projekteista, joissa olen päässyt soveltamaan oppimiani taitoja:
 
 #### [Kahvikauppa](https://github.com/Saima445/kahvikauppa)
 Verkkosovellus, joka hallitsee kahvikaupan tuotteita ja tilauksia. Tämä **Spring Boot** -projekti kattaa tuotteenhallinnan, käyttäjähallinnan ja tarjoaa täyden hallintapaneelin.
@@ -38,8 +38,8 @@ Responsiivinen verkkosivuprojekti, joka on suunniteltu HTML5:n ja CSS3:n avulla.
 
 ## 🚀 Mistä minut löytää
 
-- [LinkedIn](https://www.linkedin.com/in/saima-salonen) — Minuun saa yhteyden minkä tahansa asian tiimoilta täältä.
-- [GitHub](https://github.com/Saima445) — Katso lisää projektejani ja kontribuutioitani.
+- [LinkedIn](https://www.linkedin.com/in/saima-salonen) — Minuun saa yhteyden tätä kautta minkä tahansa asian tiimoilta täältä.
+- [GitHub](https://github.com/Saima445) — Kurkkaa lisää projektejani ja kontribuutioitani.
 
 ## ⚡ Haku päällä!
 
