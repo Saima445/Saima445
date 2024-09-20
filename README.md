@@ -1,6 +1,6 @@
 # Tervehdys!
 
-Olen **Saima**, **Full Stack -ohjelmistokehityksen opiskelija** Helsinki Business Collegessa. Ennen opintojani minulla ei ollut juurikaan kokemusta koodauksesta. Aloitettuani opinnot syksyllä 2023, olen vuodessa oppinut valtavasti sekä saanut käytännön kokemusta web-ohjelmoinnista. Urani koodarina on vielä alkutaipaleella, mutta into oppia, ja kova halu tehdä töitä vievät minua vauhdilla eteenpäin. Keskityn opinnoissani erityisesti web-teknologioihin, kuten **Reactiin** ja **Javaan**, ja hommat sujuvat yhtä lailla suomeksi kuin englanniksikin. 
+Olen **Saima**, **Full Stack -ohjelmistokehityksen opiskelija** Helsinki Business Collegessa. Olen alanvaihtaja ja tämän johdosta urani koodarina on vielä alkutaipaleella, mutta into oppia, ja kova halu tehdä töitä vievät minua vauhdilla eteenpäin. Keskityn opinnoissani erityisesti web-teknologioihin, kuten **Reactiin** ja **Javaan**, ja hommat sujuvat yhtä lailla suomeksi kuin englanniksikin. 
 
 Kehittyäkseni edelleen, tartun mielelläni haastaviin projekteihin, joista voin oppia mahdollisimman paljon uutta. Jokainen projekti vie minut askeleen lähemmäs ammattilaisuutta, enkä malta odottaa, mitä tulevaisuus tuo tullessaan.
 
@@ -13,22 +13,22 @@ Opintoni ja projektipainotteinen työskentely ovat antaneet minulle erinomaisen 
 - 🗄️ **Tietokannat**: SQL, H2 Database, tietokantarakenteet
 - 🔄 **Versionhallinta**: Git & GitHub
 - 🎨 **UI/UX-suunnittelu**: Figma, prototyyppaus
-- 🧠 **Muut taidot**: REST API:t, responsiivinen suunnittelu, testaus
+- 🤸‍♀️ **Muut taidot**: REST API:t, responsiivinen suunnittelu, testaus, ketterät menetelmät (scrum)
 
 Olen saanut rutkasti käytännön kokemusta erilaisten kouluprojektien kautta, ja into ohjelmointiin kasvaa jokaisen uuden haasteen myötä. Parasta on, kun saan kehittää tehokkaita ratkaisuja monimutkaisiin ongelmiin.
 
 ## 📚 Projektit
 
-Tosiaan noin vuoden koodaus opintojen jälkeen, tässä muutama esimerkki projekteista, joissa olen päässyt soveltamaan oppimiani taitoja:
+Tässä olisi muutama esimerkki projekteista, joissa olen päässyt soveltamaan oppimiani taitoja viimeisen 9 kuukauden aikana:
 
 #### [Kahvikauppa](https://github.com/Saima445/kahvikauppa)
-Verkkosovellus, joka hallitsee kahvikaupan tuotteita ja tilauksia. Tämä **Spring Boot** -projekti kattaa tuotteenhallinnan, käyttäjähallinnan ja tarjoaa täyden hallintapaneelin.
+Verkkosovellus, joka hallitsee kahvikaupan tuotteita ja tilauksia. Tämä **Spring Boot** -projekti kattaa tuotteenhallinnan, käyttäjähallinnan ja tarjoaa täyden hallintapaneelin. Kaikki toiminnot ja tyylit ovat itse tekemiäni.
 
 #### [SOC Dashboard](https://github.com/IsratJahan13/official_soc_dashboard)
-Tietoturvaoperaatioiden hallintaan tarkoitettu SOC Dashboard -sovellus tarjoaa reaaliaikaisen näkymän tietoturvajärjestelmien tapahtumiin. Sovellus on rakennettu **Reactin** ja **Viten** avulla ja siinä on tuettu **dark mode** sekä monimutkaisten tietoturvalokien hallinta. Olin vastuussa käyttöliittymän suunnittelusta, CSS-tyylittelystä, responsiivisesta suunnittelusta sekä työaseman verkkoliikenteen ja eri teemojen toteutuksesta.
+Tietoturvaoperaatioiden hallintaan tarkoitettu SOC Dashboard -sovellus tarjoaa reaaliaikaisen näkymän tietoturvajärjestelmien tapahtumiin. Sovellus on rakennettu **Reactin** ja **Viten** avulla ja siinä on tuettu **dark mode** sekä monimutkaisten tietoturvalokien hallinta. Olin vastuussa käyttöliittymän suunnittelusta, CSS-tyylittelystä, responsiivisesta suunnittelusta sekä työaseman verkkoliikenteen ja eri teemojen toteutuksesta. Moni toiminnallisuus komponenteissa oli myös omaa käsialaani. 
 
 #### [Portfolio](https://saima445.github.io/portfolio-saima/)
-Oma portfoliosivuni, joka esittelee kaikki projektini ja taitoni. Rakennettu käyttäen **HTML5** ja **CSS3**.
+Portfoliosivu, joka piti luoda mahdollisimman samanlaiseksi kuin opettajan esimerkkisivu. Rakennettu käyttäen **HTML5** ja **CSS3**.
 
 #### [Countries Information App](https://saima445.github.io/05-react-maiden-tiedot/)
 Reactilla toteutettu sovellus, joka hakee tietoja eri maista ja näyttää niiden säätiedot. Käyttää **RESTCountries**- ja **OpenWeatherMap**-API:ta.
@@ -38,7 +38,7 @@ Responsiivinen verkkosivuprojekti, joka on suunniteltu HTML5:n ja CSS3:n avulla.
 
 ## 🚀 Mistä minut löytää
 
-- [LinkedIn](https://www.linkedin.com/in/saima-salonen) — Minuun saa yhteyden tätä kautta minkä tahansa asian tiimoilta täältä.
+- [LinkedIn](https://www.linkedin.com/in/saima-salonen) — Minuun saa yhteyden tätä kautta minkä tahansa asian tiimoilta.
 - [GitHub](https://github.com/Saima445) — Kurkkaa lisää projektejani ja kontribuutioitani.
 
 ## ⚡ Haku päällä!
