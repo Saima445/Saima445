@@ -4,7 +4,7 @@ Olen **Saima**, **Full Stack -ohjelmistokehityksen opiskelija** Helsinki Busines
 
 Kehittyäkseni edelleen, tartun mielelläni haastaviin projekteihin, joista voin oppia mahdollisimman paljon uutta. Jokainen projekti vie minut askeleen lähemmäs ammattilaisuutta, enkä malta odottaa, mitä tulevaisuus tuo tullessaan.
 
-## 🔧 Taitoni
+## 🔧 Taidot
 
 Opintoni ja projektipainotteinen työskentely ovat antaneet minulle erinomaisen pohjan näillä osa-alueilla:
 
