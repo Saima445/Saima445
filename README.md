@@ -21,19 +21,19 @@ Olen saanut rutkasti käytännön kokemusta erilaisten kouluprojektien kautta, j
 
 Tässä muutama esimerkki projekteista, joissa olen päässyt soveltamaan oppimiani taitoja:
 
-### [Kahvikauppa](https://github.com/Saima445/kahvikauppa)
+### - [Kahvikauppa](https://github.com/Saima445/kahvikauppa)
 Verkkosovellus, joka hallitsee kahvikaupan tuotteita ja tilauksia. Tämä **Spring Boot** -projekti kattaa tuotteenhallinnan, käyttäjähallinnan ja tarjoaa täyden hallintapaneelin.
 
-### [SOC Dashboard](https://github.com/IsratJahan13/official_soc_dashboard)
+### - [SOC Dashboard](https://github.com/IsratJahan13/official_soc_dashboard)
 Tietoturvaoperaatioiden hallintaan tarkoitettu SOC Dashboard -sovellus tarjoaa reaaliaikaisen näkymän tietoturvajärjestelmien tapahtumiin. Sovellus on rakennettu **Reactin** ja **Viten** avulla ja siinä on tuettu **dark mode** sekä monimutkaisten tietoturvalokien hallinta. Olin vastuussa käyttöliittymän suunnittelusta, CSS-tyylittelystä, responsiivisesta suunnittelusta sekä työaseman verkkoliikenteen ja eri teemojen toteutuksesta.
 
-### [Portfolio](https://saima445.github.io/portfolio-saima/)
+### - [Portfolio](https://saima445.github.io/portfolio-saima/)
 Oma portfoliosivuni, joka esittelee kaikki projektini ja taitoni. Rakennettu käyttäen **HTML5** ja **CSS3**.
 
-### [Countries Information App](https://saima445.github.io/05-react-maiden-tiedot/)
+### - [Countries Information App](https://saima445.github.io/05-react-maiden-tiedot/)
 Reactilla toteutettu sovellus, joka hakee tietoja eri maista ja näyttää niiden säätiedot. Käyttää **RESTCountries**- ja **OpenWeatherMap**-API:ta.
 
-### [Citrus Cafe](https://saima445.github.io/09-citrus-cafe/)
+### - [Citrus Cafe](https://saima445.github.io/09-citrus-cafe/)
 Responsiivinen verkkosivuprojekti, joka on suunniteltu HTML5:n ja CSS3:n avulla. Sovellus keskittyy kauniin ja toimivan käyttöliittymän luomiseen.
 
 ## 🚀 Mistä minut löytää
