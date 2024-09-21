@@ -45,7 +45,7 @@ A SOC (Security Operations Center) Dashboard designed for managing security oper
 #### [Portfolio](https://github.com/Saima445/portfolio-saima)
 A portfolio page that had to be created to closely match the instructor’s example. Built using HTML5 and CSS3.
 
-#### [Countries Information App](https://github.com/Saima445/05-react-maiden-tiedot)
+#### [Countries information app](https://github.com/Saima445/05-react-maiden-tiedot)
 An app built with React that fetches information about different countries and shows their weather. It uses the RESTCountries and OpenWeatherMap APIs.
 
 #### [Citrus Cafe](https://github.com/Saima445/09-citrus-cafe)
