@@ -21,7 +21,7 @@ Through various school projects, I’ve gained loads of hands-on experience, and
 
 Here are a few examples of projects where I’ve applied my skills over the past 9 months:
 
-#### ShareVault
+#### [ShareVault app](https://github.com/esapuolakka/shareholder.git)
 This project is an ongoing group work for our course, which we’re building as a team of four. The app is designed for managing a shareholder registry, making it easy for companies to manage shareholder information and stock transactions. ShareVault includes features like managing a shareholder list, tracking stock sales and purchases, and visual charts for stock value development. Users can view ownership shares, sort data in tables, and get real-time shareholder information. The app is built using React and the Highcharts library for creating visual charts. The backend is developed with Spring Boot. I’m responsible for the front-end development with another classmate, and the design and style are my own creation.
 
 ![ShareVault dashboard](images/sharevaul-chart_page.png)
