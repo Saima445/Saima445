@@ -10,10 +10,10 @@ My studies and project-focused work have built a solid foundation in these areas
 
 - 🌐 **Front-end**: HTML5, CSS3, JavaScript, React
 - 🖥️ **Back-end**: Java, Spring Boot
-- 🗄️ **Tietokannat**: SQL, H2 Database, database structures
-- 🔄 **Versionhallinta**: Git & GitHub
-- 🎨 **UI/UX-suunnittelu**: Figma, prototyping
-- 🤸‍♀️ **Muut taidot**: REST APIs, responsive design, testing, agile methods (scrum)
+- 🗄️ **Databases**: SQL, H2 Database, database structures
+- 🔄 **Version control**: Git & GitHub
+- 🎨 **UI/UX design**: Figma, prototyping
+- 🤸‍♀️ **Other skills**: REST APIs, responsive design, testing, agile methods (scrum), soft skills and communication
 
 Through various school projects, I’ve gained loads of hands-on experience, and my love for programming grows with each new challenge. I get the most joy when I get to develop efficient solutions to complex problems.
 
