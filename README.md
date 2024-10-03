@@ -1,6 +1,6 @@
 # Greetings!
 
-I’m **Saima**, a **Full Stack software development student** at Helsinki Business College. I’m a career changer, which means my journey as a coder is still at an early stage, but my passion for learning and my strong work ethic drive me swiftly forward. In my studies, I focus on web technologies such as **React** and **Java**, and I’m comfortable working in both Finnish and English.
+I’m **Saima**, a **Full Stack Software Development Student** at Helsinki Business College. I’m a career changer, which means my journey as a coder is still at an early stage, but my passion for learning and my strong work ethic drive me swiftly forward. In my studies, I focus on web technologies such as **React** and **Java**, and I’m comfortable working in both Finnish and English.
 
 To further improve, I eagerly take on challenging projects that allow me to learn as much as possible. Each project brings me closer to becoming a professional, and I can’t wait to see what the future holds.
 
