@@ -23,19 +23,7 @@ Here are a few examples of projects where I’ve applied my skills over the past
 
 #### [ShareVault app](https://github.com/esapuolakka/shareholder.git)
 
-This project is an ongoing group work for our course, which we’re building as a team of four. The app is designed for managing a shareholder registry, making it easy for companies to manage shareholder information and stock transactions. ShareVault includes features like managing a shareholder list, tracking stock sales and purchases, and visual charts for stock value development. Users can view ownership shares, sort data in tables, and get real-time shareholder information. The app is built using React and the Highcharts library for creating visual charts. The backend is developed with Spring Boot. I’m responsible for the front-end development with another classmate, and the design and style are my own creation.
-
-![ShareVault dashboard](images/sharevault-chart_page.png)
-
-![ShareVault osakasluettelo](images/sharevault-ol_page.png)
-
-![ShareVault osakenumerot](images/sharevault-on_page.png)
-
-![ShareVault merkintähistoria](images/sharevault-mh_page.png)
-
-![ShareVault osakkaiden tiedot](images/sharevault-ot_page.png)
-
-![ShareVault lisää uusi](images/sharevault-lu_page.png)
+This project is an ongoing group work for our course, which we’re building as a team of four. The app is designed for managing a shareholder registry, making it easy for companies to manage shareholder information and stock transactions. ShareVault includes features like managing a shareholder list, tracking stock sales and purchases, and visual charts for stock value development. Users can view ownership shares, sort data in tables, and get real-time shareholder information. The app is built using React and the Highcharts library for creating visual charts. The backend is developed with Spring Boot. I’m responsible for the front-end development with another classmate, and the design and style are mostly my own creation. Our customer wanted a very simple and easy-to-navigate platform, and that is what we delivered.
 
 #### [Coffee shop](https://github.com/Saima445/kahvikauppa)
 
@@ -62,6 +50,4 @@ A responsive website project designed using HTML5 and CSS3, goal was to closely 
 - [LinkedIn](https://www.linkedin.com/in/saimasalonen/) — Reach out to me here for anything!
 - [GitHub](https://github.com/Saima445) — Check out more of my projects and contributions.
 
-## ⚡ I’m Looking for a internship!
-
-I’m currently looking for an internship to complete my studies. If your company is searching for a passionate intern who loves coding and works with great motivation, feel free to contact me via LinkedIn!
+## ⚡ I am currently interning at a Finnish startup, working alongside a brilliant full-stack developer to build an AI platform
