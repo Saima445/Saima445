@@ -53,7 +53,8 @@ A responsive website project designed using HTML5 and CSS3, goal was to closely 
 ## ⚡ I am currently interning at a Finnish startup
 
 I’m working alongside brilliant full-stack developers to build an AI-powered chat application! Our platform is designed to provide users access to a variety of AI models, tailored to diverse needs and use cases. This exciting project is expanding my skills and giving me hands-on experience with a modern tech stack:
-	- 🌐 **Front-end and Back-end**: Next.js & TypeScript
-  - 🎨 **Style**: Tailwind CSS
-	- 🗄️ **Database**: PostgreSQL
-	- 🤖 **AI Integration**: Exploring cutting-edge technologies to bring intelligence into the platform
+	
+- 🌐 **Front-end and Back-end**: Next.js & TypeScript
+- 🎨 **Style**: Tailwind CSS
+- 🗄️ **Database**: PostgreSQL
+- 🤖 **AI Integration**: Exploring cutting-edge technologies to bring intelligence into the platform
