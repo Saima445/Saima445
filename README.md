@@ -48,7 +48,7 @@ A responsive website project designed using HTML5 and CSS3, goal was to closely 
 ## 🚀 Where to Find Me
 
 - [LinkedIn](https://www.linkedin.com/in/saimasalonen/) — Reach out to me here for anything!
-- [GitHub](https://github.com/Saima445?tab=repositories)) — Check out more of my projects and contributions.
+- [GitHub](https://github.com/Saima445?tab=repositories) — Check out more of my projects and contributions.
 
 ## ⚡ I am currently interning at a Finnish startup
 
