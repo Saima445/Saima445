@@ -45,7 +45,7 @@ An app built with React that fetches information about different countries and s
 
 A responsive website project designed using HTML5 and CSS3, goal was to closely match the instructor’s example.
 
-## 🚀 Where to Find Me
+## 🚀 Where to find me
 
 - [LinkedIn](https://www.linkedin.com/in/saimasalonen/) — Reach out to me here for anything!
 - [GitHub](https://github.com/Saima445?tab=repositories) — Check out more of my projects and contributions.
@@ -55,6 +55,6 @@ A responsive website project designed using HTML5 and CSS3, goal was to closely 
 I’m working alongside brilliant full-stack developers to build an AI-powered chat application! Our platform is designed to provide users access to a variety of AI models, tailored to diverse needs and use cases. This exciting project is expanding my skills and giving me hands-on experience with a modern tech stack:
 	
 - 🌐 **Front-end and Back-end**: Next.js & TypeScript
-- 🎨 **Style**: Tailwind CSS
+- 🎨 **Style**: Tailwind CSS & Shadcn/ui
 - 🗄️ **Database**: PostgreSQL
 - 🤖 **AI Integration**: Exploring cutting-edge technologies to bring intelligence into the platform
