@@ -1,25 +1,41 @@
 # Greetings!
 
-I’m **Saima**, a **Full Stack Software Development Student** at Helsinki Business College. I’m a career changer, which means my journey as a coder is still at an early stage, but my passion for learning and my strong work ethic drive me swiftly forward. In my studies, I focus on web technologies such as **React** and **Java**, and I’m comfortable working in both Finnish and English.
+I’m **Saima**, a junior **Full Stack Developer** based in Helsinki. I recently graduated from Helsinki Business College (2025) with a focus on **React** and **Java**.  
 
-To further improve, I eagerly take on challenging projects that allow me to learn as much as possible. Each project brings me closer to becoming a professional, and I can’t wait to see what the future holds.
+I’m a career changer with a background in hospitality, and coding has gone from curiosity to real passion. I love solving problems, learning fast, and building things that actually work.  
 
-## 🔧 Skills
+Currently I’m working at a start-up **Octofy** (internship → freelance), where I’ve contributed to building a modern **AI-powered chat platform**. My work spans the full stack: from backend logic and database programming to frontend UI and component design. I’ve also worked on **prompt engineering**, **Stripe integrations**, and **data handling (CSV/Excel + LLMs)**.  
 
-My studies and project-focused work have built a solid foundation in these areas:
+Alongside that, I’ve done freelance/school projects like designing and implementing a **WordPress landing page** for a client.  
 
-- 🌐 **Front-end**: HTML5, CSS3, JavaScript, React
-- 🖥️ **Back-end**: Java, Spring Boot
-- 🗄️ **Databases**: SQL, H2 Database, database structures
-- 🔄 **Version control**: Git & GitHub
-- 🎨 **UI/UX design**: Figma, prototyping
-- 🤸‍♀️ **Other skills**: REST APIs, responsive design, testing, agile methods (scrum), soft skills and communication
+💡 *My motto: everything can be learned with curiosity and hard work.*  
 
-Through various school projects, I’ve gained loads of hands-on experience, and my love for programming grows with each new challenge. I get the most joy when I get to develop efficient solutions to complex problems.
 
-## 📚 Projects
+## 🔧 Tech Stack
 
-Here are a few examples of projects where I’ve applied my skills over the past 9 months:
+- 🌐 **Frontend & Frameworks:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind, Shadcn/UI, Material UI, Magic UI  
+- 🖥️ **Backend:** Java, Spring Boot, Node.js, REST APIs  
+- 🗄️ **Databases:** PostgreSQL, SQL, H2, database design & structure  
+- 🔄 **Version Control & Collaboration:** Git, GitHub, Agile (Scrum)  
+- 🎨 **UI/UX Design:** Figma, prototyping, responsive design, user-centered design principles  
+- 🤖 **Other Skills:** AI model integration, prompt engineering, software testing basics, teamwork, problem solving
+- 
+
+
+## 🚀 Highlights
+
+- **Junior Full-stack Developer (Octofy Oy, 2024–present)**  
+  Building an AI-powered chat platform for all power users.  
+
+- **Website Project (Restaurant Grotesk, 2024)**  
+  Designed and implemented a new WordPress site with Elementor and custom code snippets, giving the client a modernized look and feel.  
+
+
+Through various school projects, I’ve gained loads of hands-on experience, and my love for programming grew with each new challenge.
+
+## 📚 Projects in School
+
+Here are a few examples of projects where I’ve applied my skills:
 
 #### [ShareVault app](https://github.com/esapuolakka/shareholder.git)
 
