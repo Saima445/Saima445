@@ -4,7 +4,7 @@ I’m **Saima**, a junior **Full Stack Developer** based in Helsinki. I recently
 
 I’m a career changer with a background in hospitality, and coding has gone from curiosity to real passion. I love solving problems, learning fast, and building things that actually work.  
 
-Currently I’m working at a start-up **Octofy** (internship → freelance), where I’ve contributed to building a modern **AI-powered chat platform**. My work spans the full stack: from backend logic and database programming to frontend UI and component design. I’ve also worked on **prompt engineering**, **Stripe integrations**, and **data handling (CSV/Excel + LLMs)**.  
+Currently I’m working at a start-up **Octofy** (internship → freelance), where I’ve contributed to building a modern **AI-powered chat platform** from the ground up. My work spans the full stack: from backend logic and database programming to frontend UI and component design. I’ve also learned a great deal about Stripe integrations, prompt engineering, integrating LLMs into platforms, and many other valuable skills.  
 
 Alongside that, I’ve done freelance/school projects like designing and implementing a **WordPress landing page** for a client.  
 
@@ -19,7 +19,6 @@ Alongside that, I’ve done freelance/school projects like designing and impleme
 - 🔄 **Version Control & Collaboration:** Git, GitHub, Agile (Scrum)  
 - 🎨 **UI/UX Design:** Figma, prototyping, responsive design, user-centered design principles  
 - 🤖 **Other Skills:** AI model integration, prompt engineering, software testing basics, teamwork, problem solving
-- 
 
 
 ## 🚀 Highlights
@@ -53,24 +52,7 @@ A SOC (Security Operations Center) Dashboard designed for managing security oper
 
 A portfolio page that had to be created to closely match the instructor’s example. Built using HTML5 and CSS3.
 
-#### [Countries information app](https://github.com/Saima445/05-react-maiden-tiedot)
-
-An app built with React that fetches information about different countries and shows their weather. It uses the RESTCountries and OpenWeatherMap APIs.
-
-#### [Citrus Cafe](https://github.com/Saima445/09-citrus-cafe)
-
-A responsive website project designed using HTML5 and CSS3, goal was to closely match the instructor’s example.
-
 ## 🚀 Where to find me
 
 - [LinkedIn](https://www.linkedin.com/in/saimasalonen/) — Reach out to me here for anything!
 - [GitHub](https://github.com/Saima445?tab=repositories) — Check out more of my projects and contributions.
-
-## ⚡ I am currently interning at a Finnish startup
-
-I’m working alongside brilliant full-stack developers to build an AI-powered chat application! Our platform is designed to provide users access to a variety of AI models, tailored to diverse needs and use cases. This exciting project is expanding my skills and giving me hands-on experience with a modern tech stack:
-	
-- 🌐 **Front-end and Back-end**: Next.js & TypeScript
-- 🎨 **Style**: Tailwind CSS & Shadcn/ui
-- 🗄️ **Database**: PostgreSQL
-- 🤖 **AI Integration**: Exploring cutting-edge technologies to bring intelligence into the platform
