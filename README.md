@@ -8,7 +8,7 @@ Currently I’m working at a start-up **Octofy** (internship → freelance), whe
 
 Alongside that, I’ve done freelance/school projects like designing and implementing a **WordPress landing page** for a client.  
 
-💡 *My motto: everything can be learned with curiosity and hard work.*  
+💡 *Everything can be learned with curiosity and hard work.*  
 
 
 ## 🔧 Tech Stack
