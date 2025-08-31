@@ -52,7 +52,7 @@ A SOC (Security Operations Center) Dashboard designed for managing security oper
 
 A portfolio page that had to be created to closely match the instructor’s example. Built using HTML5 and CSS3.
 
-## 🚀 Where to find me
+## 👉 Where to find me
 
 - [LinkedIn](https://www.linkedin.com/in/saimasalonen/) — Reach out to me here for anything!
 - [GitHub](https://github.com/Saima445?tab=repositories) — Check out more of my projects and contributions.
