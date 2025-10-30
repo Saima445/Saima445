@@ -57,6 +57,15 @@ Deployed as a static site via GitHub Pages.
 
 This project is an ongoing group work for our course, which we’re building as a team of four. The app is designed for managing a shareholder registry, making it easy for companies to manage shareholder information and stock transactions. ShareVault includes features like managing a shareholder list, tracking stock sales and purchases, and visual charts for stock value development. Users can view ownership shares, sort data in tables, and get real-time shareholder information. The app is built using React and the Highcharts library for creating visual charts. The backend is developed with Spring Boot. I’m responsible for the front-end development with another classmate, and the design and style are mostly my own creation. Our customer wanted a very simple and easy-to-navigate platform, and that is what we delivered.
 
+<p align="center">
+  <img src="images/sharevault-chart_page.png" alt="ShareVault chart page" width="30%">
+  <img src="images/sharevault-lu_page.png" alt="ShareVault list page" width="30%">
+  <img src="images/sharevault-mh_page.png" alt="ShareVault main page" width="30%">
+  <img src="images/sharevault-ol_page.png" alt="ShareVault overview" width="30%">
+  <img src="images/sharevault-on_page.png" alt="ShareVault detail page" width="30%">
+  <img src="images/sharevault-ot_page.png" alt="ShareVault other page" width="30%">
+</p>
+
 #### [Coffee shop](https://github.com/Saima445/kahvikauppa)
 
 A web app that manages products and orders for a coffee shop. This Spring Boot project covers product management, user management, and offers a complete admin panel. All features and styling are my own work.
