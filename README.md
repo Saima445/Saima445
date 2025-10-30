@@ -60,10 +60,10 @@ This project is an ongoing group work for our course, which we’re building as 
 <p align="center">
   <img src="images/sharevault-chart_page.png" alt="ShareVault chart page" width="30%">
   <img src="images/sharevault-lu_page.png" alt="ShareVault list page" width="30%">
-  <img src="images/sharevault-mh_page.png" alt="ShareVault main page" width="30%">
+  <img src="images/sharevault-ot_page.png" alt="ShareVault other page" width="30%">
   <img src="images/sharevault-ol_page.png" alt="ShareVault overview" width="30%">
   <img src="images/sharevault-on_page.png" alt="ShareVault detail page" width="30%">
-  <img src="images/sharevault-ot_page.png" alt="ShareVault other page" width="30%">
+  <img src="images/sharevault-mh_page.png" alt="ShareVault main page" width="30%">
 </p>
 
 #### [Coffee shop](https://github.com/Saima445/kahvikauppa)
