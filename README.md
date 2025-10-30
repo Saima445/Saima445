@@ -30,11 +30,28 @@ Alongside that, I’ve done freelance/school projects like designing and impleme
   Designed and implemented a new WordPress site with Elementor and custom code snippets, giving the client a modernized look and feel.  
 
 
-Through various school projects, I’ve gained loads of hands-on experience, and my love for programming grew with each new challenge.
+Through various projects, I’ve gained loads of hands-on experience, and my love for programming grew with each new challenge.
 
-## 📚 Projects in School
+## 📚 Some of my projects
 
-Here are a few examples of projects where I’ve applied my skills:
+
+#### [Photo Browser App](https://github.com/Saima445/photo-browser)
+
+This project was created as a pre-assignment for a job application, showcasing my ability to design and build a modern, scalable web application from scratch.
+
+Photo Browser is a Single Page Application built with React, Vite, TypeScript, Tailwind CSS, and shadcn/ui. It fetches and displays photo data from the public JSONPlaceholder API, allowing users to browse albums, view individual photos, and like or save their favorites locally.
+
+The app demonstrates key modern web development principles such as:
+-	Scalable architecture with clear separation of routes, layouts, and features
+- Dynamic data fetching and caching using TanStack Query, ensuring smooth performance and minimal API calls
+- Lazy-loaded routes for faster initial load times
+- Infinite scroll and responsive design, making photo browsing seamless across devices
+- Reusable UI components styled with shadcn/ui and Tailwind CSS
+- Dark mode support, other small detailed features and persistent favorites stored locally
+
+The project highlights both technical implementation and UI/UX thinking, creating a smooth, polished, and realistic SPA experience.
+Deployed as a static site via GitHub Pages.  
+**Live Demo:** [Photo Browser](https://saima445.github.io/photo-browser/)
 
 #### [ShareVault app](https://github.com/esapuolakka/shareholder.git)
 
