@@ -6,7 +6,7 @@ I’m a career changer with a background in hospitality, and coding has gone fro
 
 Currently I’m working at a start-up **Octofy** (internship → freelance), where I’ve contributed to building a modern **AI-powered chat platform** from the ground up. My work spans the full stack: from backend logic and database programming to frontend UI and component design. I’ve also learned a great deal about Stripe integrations, prompt engineering, integrating LLMs into platforms, and many other valuable skills.  
 
-Alongside that, I’ve done freelance/school projects like designing and implementing a **WordPress landing page** for a client.  
+Alongside that, I’ve done freelance/school projects like designing and implementing a **WordPress site** for a client.  
 
 💡 *Everything can be learned with curiosity and hard work.*  
 
@@ -23,6 +23,9 @@ Alongside that, I’ve done freelance/school projects like designing and impleme
 
 ## 🚀 Highlights
 
+- **Junior Software Developer (Futurice Oy, 2025–present)**  
+  I recently started a new position at Futurice, where I work on multiple client projects, handling both new development and the maintenance of existing software!
+  
 - **Junior Full-stack Developer (Octofy Oy, 2024–present)**  
   Building an AI-powered chat platform for all power users.  
 
