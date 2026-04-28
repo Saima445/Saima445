@@ -1,12 +1,8 @@
 # Greetings!
 
-I’m **Saima**, a junior **Full Stack Developer** based in Helsinki. I recently graduated from Helsinki Business College (2025) with a focus on **React** and **Java**.  
+I’m Saima, a junior Software Developer at Futurice, currently based in Helsinki. I specialize in building and maintaining robust full-stack applications with a focus on modern web technologies.
 
-I’m a career changer with a background in hospitality, and coding has gone from curiosity to real passion. I love solving problems, learning fast, and building things that actually work.  
-
-Currently I’m working at a start-up **Octofy** (internship → freelance), where I’ve contributed to building a modern **AI-powered chat platform** from the ground up. My work spans the full stack: from backend logic and database programming to frontend UI and component design. I’ve also learned a great deal about Stripe integrations, prompt engineering, integrating LLMs into platforms, and many other valuable skills.  
-
-Alongside that, I’ve done freelance/school projects like designing and implementing a **WordPress site** for a client.  
+I made a career pivot from hospitality to tech, bringing with me a "get things done" attitude, fast-paced problem-solving skills, and a genuine passion for clean code and user-centered design. 
 
 💡 *Everything can be learned with curiosity and hard work.*  
 
@@ -24,18 +20,22 @@ Alongside that, I’ve done freelance/school projects like designing and impleme
 ## 🚀 Highlights
 
 - **Junior Software Developer (Futurice Oy, 2025–present)**  
-  I recently started a new position at Futurice, where I work on multiple client projects, handling both new development and the maintenance of existing software!
-  
-- **Junior Full-stack Developer (Octofy Oy, 2024–present)**  
-  Building an AI-powered chat platform for all power users.  
+  Working in the LiveOps unit, bridging development and operations. I ensure high-stakes client software stays performant while shipping new updates and maintaining system stability.
 
-- **Website Project (Restaurant Grotesk, 2024)**  
+- **Full-stack Developer | [Polle](https://polle.fi) (2025–present)**  
+  A small-team project built from the ground up. I’ve been involved since the very first steps, developing an all-in-one platform for the horse industry. The platform includes marketplace capabilities, syndicate management, social media features, and stable management tools.
+
+- **Website Project | [Somerniemi](https://somerniemi.fi) (2026)**
+  A voluntary project where I transformed an outdated village site into a modern, user-friendly website. I handled the full end-to-end design and implementation using WordPress.
+  
+- **Junior Full-stack Developer | [Octofy](https://octofy.ai) (2024–2025)**  
+  Contributing to the development of an AI-powered chat platform designed for power users, focusing on seamless LLM integrations and full-stack features.
+
+- **Website Project | [Restaurant Grotesk](https://grotesk.fi) (2024)**
   Designed and implemented a new WordPress site with Elementor and custom code snippets, giving the client a modernized look and feel.  
 
 
-Through various projects, I’ve gained loads of hands-on experience, and my love for programming grew with each new challenge.
-
-## 📚 Some of my projects
+## 📚 Some of my other projects
 
 
 #### [Photo Browser App](https://github.com/Saima445/photo-browser)
